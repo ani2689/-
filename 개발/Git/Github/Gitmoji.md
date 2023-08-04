@@ -1,5 +1,5 @@
 
-### 깃모지
+### Gitmogi
 
 - [https://gitmoji.dev/]
 - [https://github.com/carloscuesta/gitmoji-cli]

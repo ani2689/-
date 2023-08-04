@@ -79,7 +79,7 @@
     - 🔗 [유니코드와 UTF-8](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Data/유니코드와%20UFT-8.md)
     - 🔗 [EUC-KR](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Data/EUC-KR.md)
   - 📂 Command
-    - 🔗 [고급 언어와 저급 언어](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Command/고급%20언어와%20저급언어.md)
+    - 🔗 [고급언어와 저급언어](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Command/고급%언어와%20저급언어.md)
     - 🔗 [컴파일 언어와 인터프리터 언어](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Command/컴파일%20언어와%20인터프리터%20언어.md)
     - 🔗 [연산코드와 오퍼랜드](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Command/연산코드와%20오퍼랜드.md)
     - 🔗 [주소 저장 방식](https://github.com/ani2689/TIL/blob/main/컴퓨터%20구조/Command/주소%20저장%20방식.md)

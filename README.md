@@ -60,13 +60,23 @@
         - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/사용자%20정의%20보안%20기능%20구현.md)
         - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/종속성%20추가%20시.md)
 
+#### 💾 네트워크
+  - 🔗 [서버 & 클라이언트](https://github.com/ani2689/TIL/blob/main/네트워크/서버%20&%20클라이언트.md)
+  - 🔗 [아이피 & 포트](https://github.com/ani2689/TIL/blob/main/네트워크/아이피%20&%20포트.md)
+
+
 #### 💾 데이터베이스
+  - 🔗 [데이터베이스](https://github.com/ani2689/TIL/blob/main/데이터베이스/데이터베이스.md)
+  - 📂 SQL
+    - 🔗 [SQL](https://github.com/ani2689/TIL/blob/main/데이터베이스/SQL/SQL.md)
   - 📂 Design
     - 🔗 [관계 데이터 모델의 개념](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/관계%20데이터%20모델의%20개념.md)
     - 🔗 [데이터베이스 언어 & 사용자](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터베이스%20언어,%20사용자.md)
     - 🔗 [데이터 독립성](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터%20독립성.md)
     - 🔗 [데이터 모델](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터%20모델.md)
     - 🔗 [데이처를 저장하는 방법](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터를%20저장하는%20방법.md)
+    - 🔗 [RDB](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/RDB.md)
+    - 🔗 [NoSQL](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/NoSQL.md)
 
 #### 💾 컴퓨터 구조
   - 📂 Data

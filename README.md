@@ -58,6 +58,7 @@
       - 🔗 [MVC](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/MVC.md)
       - 📂 Spring Boot
         - 🔗 [특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20boot/특징.md)
+        - 🔗 [spring과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20boot/spring과의%20차이.md)
       - 📂 Spring Security
         - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/사용자%20정의%20보안%20기능%20구현.md)
         - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/종속성%20추가%20시.md)

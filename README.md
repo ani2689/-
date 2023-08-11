@@ -56,6 +56,7 @@
     - 📂 Spring
       - 🔗 [DI](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/DI.md)
       - 🔗 [MVC](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/MVC.md)
+      - 🔗 [IoC](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/IoC.md)
       - 📂 Spring Boot
         - 🔗 [특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20boot/특징.md)
         - 🔗 [spring과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20boot/spring과의%20차이.md)

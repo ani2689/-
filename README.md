@@ -22,7 +22,7 @@
       - 🔗 [접근 제어자](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/접근%20제어자.md)
       - 🔗 [Collection Framework](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Collection%20Framework.md)
       - 🔗 [Map & List Interface](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Map%20&%20List%20Interface.md)
-      - 🔗 [Overloading & Overriding](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Overloading%20&%20Overriding)
+      - 🔗 [Overloading & Overriding](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Overloading%20&%20Overriding.md)
       - 📂 Class
         - 🔗 [클래스와 객체](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Class/클래스와%20객체.md)
     - 📂 Kotlin

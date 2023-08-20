@@ -10,7 +10,7 @@
 <br>
 
 #### 💾 개발
-  - 📂 Git/Github
+  - 📂 Git
     - 🔗 [GitFlow](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/GitFlow.md)
     - 🔗 [Gitmoji](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/Gitmoji.md)
   - 📂 Language

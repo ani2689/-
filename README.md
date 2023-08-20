@@ -85,6 +85,8 @@
     - 📂 Teansaction
       - 🔗 [트랜잭션](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/Teansaction/트랜잭션.md)
       - 🔗 [트랜잭션의 특성](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/Teansaction/트랜잭션의%20특성.md)
+      - 🔗 [트랜잭션의 연산](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/Teansaction/트랜잭션의%20연산.md)
+      - 🔗 [트랜잭션의 상태](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/Teansaction/트랜잭션의%20상태.md)
     - 🔗 [관계 데이터 모델의 개념](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/관계%20데이터%20모델의%20개념.md)
     - 🔗 [데이터베이스 언어 & 사용자](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터베이스%20언어,%20사용자.md)
     - 🔗 [데이터 독립성](https://github.com/ani2689/TIL/blob/main/데이터베이스/Design/데이터%20독립성.md)

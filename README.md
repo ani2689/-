@@ -65,6 +65,11 @@
     - 📂 **Spring Security**
       - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/사용자%20정의%20보안%20기능%20구현.md)
       - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/종속성%20추가%20시.md)
+    - 📂 **Transaction**
+      - 🔗 [스프링에서의 트랜잭션](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/스프링에서의%20트랜잭션.md)
+      - 🔗 [트랜잭션과 AOP](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/트랜잭션과%20AOP.md)
+      - 📂 **@Transactional**
+        - 🔗 [트랜잭션의 동작원리](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/트랜잭션의%20동작원리.md)
 
 <br>
 

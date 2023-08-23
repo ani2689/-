@@ -69,7 +69,9 @@
       - 🔗 [스프링에서의 트랜잭션](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/스프링에서의%20트랜잭션.md)
       - 🔗 [트랜잭션과 AOP](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/트랜잭션과%20AOP.md)
       - 📂 **@Transactional**
-        - 🔗 [트랜잭션의 동작원리](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/트랜잭션의%20동작원리.md)
+        - 🔗 [트랜잭션의 동작원리](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/트랜잭션의%20동작원리.md)
+        - 🔗 [격리 수준](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/격리%20수준.md)
+        - 🔗 [전파 속성](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/전파%20속성.md)
 
 <br>
 

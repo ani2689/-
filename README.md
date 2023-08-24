@@ -72,6 +72,9 @@
         - 🔗 [트랜잭션의 동작원리](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/트랜잭션의%20동작원리.md)
         - 🔗 [격리 수준](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/격리%20수준.md)
         - 🔗 [전파 속성](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/전파%20속성.md)
+        - 🔗 [읽기 전용](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/읽기%20전용.md)
+        - 🔗 [제한 시간](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/제한%20시간.md)
+        - 🔗 [롤백 & 커밋 예외](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/@Transactional/롤백%20&%20커밋%20예외.md)
 
 <br>
 

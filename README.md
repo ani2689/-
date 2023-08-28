@@ -19,6 +19,10 @@
 - 📂 **Git**
   - 🔗 [GitFlow](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/GitFlow.md)
   - 🔗 [Gitmoji](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/Gitmoji.md)
+- 📂 **Architecture**
+  - 📂 **Single Server**
+    - 🔗 [단일 서버](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Single%20Server/단일%20서버.md)
+    - 🔗 [단일 서버의 장단점](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Single%20Server/단일%20서버의%20장단점.md)
 - 📂 **Language**
   - 📂 **OOP**
     - 🔗 [객체 지향 5원칙](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/객체%20지향%205원칙.md)

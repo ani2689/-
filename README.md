@@ -22,6 +22,14 @@
 - 📂 **Architecture**
   - 📂 **Clean Architecture**
     - 🔗 [클린 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/클린%20아키텍처.md)
+    - 🔗 [클린 아키텍처의 규칙](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/클린%20아키텍처의%20규칙.md)
+    - 🔗 [엔티티 & 유스케이스](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/엔티티%20&%20유스케이스.md)
+    - 🔗 [포트](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/포트.md)
+    - 🔗 [객체지향과 클린 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/객체지향과%20클린%20아키텍처.md)
+    - 📂 **Adqpter**
+      - 🔗 [어댑터](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/어댑터.md)
+      - 🔗 [프레젠터](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/프레젠터.md)
+      - 🔗 [레포지토리](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/레포지토리.md)
   - 📂 **Layered Architecture**
     - 🔗 [계층형 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층형%20아키텍처.md)
     - 🔗 [계층간의 의존성 문제](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층간의%20의존성%20문제.md)

@@ -20,6 +20,11 @@
   - 🔗 [GitFlow](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/GitFlow.md)
   - 🔗 [Gitmoji](https://github.com/ani2689/TIL/blob/main/개발/Git/Github/Gitmoji.md)
 - 📂 **Architecture**
+  - 📂 **Clean Architecture**
+    - 🔗 [클린 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/클린%20아키텍처.md)
+  - 📂 **Layered Architecture**
+    - 🔗 [계층형 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층형%20아키텍처.md)
+    - 🔗 [계층간의 의존성 문제](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층간의%20의존성%20문제.md)
   - 📂 **Single Server**
     - 🔗 [단일 서버](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Single%20Server/단일%20서버.md)
     - 🔗 [단일 서버의 장단점](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Single%20Server/단일%20서버의%20장단점.md)

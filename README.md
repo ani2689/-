@@ -30,6 +30,12 @@
       - 🔗 [어댑터](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/어댑터.md)
       - 🔗 [프레젠터](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/프레젠터.md)
       - 🔗 [레포지토리](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Adapter/레포지토리.md)
+    - 📂 **Hexagonal Architecture**
+      - 🔗 [핵사고날 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Hexagonal%20Architecture/핵사고날%20아키텍처.md)
+      - 📂 **Adapter**
+        - 🔗 [어댑터](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Hexagonal%20Architecture/Adapter/어댑터.md)
+      - 📂 **Port**
+        - 🔗 [포트](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Clean%20Architecture/Hexagonal%20Architecture/Port/포트.md)
   - 📂 **Layered Architecture**
     - 🔗 [계층형 아키텍처](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층형%20아키텍처.md)
     - 🔗 [계층간의 의존성 문제](https://github.com/ani2689/TIL/blob/main/개발/Architecture/Layered%20Architecture/계층간의%20의존성%20문제.md)

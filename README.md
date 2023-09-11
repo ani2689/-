@@ -54,10 +54,6 @@
     - 🔗 [Overloading & Overriding](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Overloading%20&%20Overriding)
     - 📂 **Class**
       - 🔗 [클래스와 객체](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Class/클래스와%20객체.md)
-    - 📂 **Synchronous & Asynchronous**
-      - 🔗 [동기식 처리](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/ynchronous%20&%20Asynchronous/동기식%20처리.md)
-      - 🔗 [비동기식 처리](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/ynchronous%20&%20Asynchronous/비동기식%20처리.md)
-      - 🔗 [비동기식 처리의 장단점](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/ynchronous%20&%20Asynchronous/비동기식%20처리의%20장단점.md)
   - 📂 **Kotlin**
     - 🔗 [조건문](https://github.com/ani2689/TIL/blob/main/개발/Language/Kotlin/조건문.md)
     - 🔗 [반복문](https://github.com/ani2689/TIL/blob/main/개발/Language/Kotlin/반복문.md)
@@ -163,6 +159,15 @@
   - 📂 **Reverse Proxy**
     - 🔗 [리버스 프록시](https://github.com/ani2689/TIL/blob/main/네트워크/Proxy/Reverse%20Proxy/리버스%20프록시.md)
     - 🔗 [리버스 프록시의 장점](https://github.com/ani2689/TIL/blob/main/네트워크/Proxy/Reverse%20Proxy/리버스%20프록시의%20장점.md)
+- 📂 **Synchronous & Asynchronous**
+  - 🔗 [동기식 처리](https://github.com/ani2689/TIL/blob/main/네트워크/Synchronous%20&%20Asynchronous/동기식%20처리.md)
+  - 🔗 [비동기식 처리](https://github.com/ani2689/TIL/blob/main/네트워크/Synchronous%20&%20Asynchronous/비동기식%20처리.md)
+  - 🔗 [비동기식 처리의 장단점](https://github.com/ani2689/TIL/blob/main/네트워크/Synchronous%20&%20Asynchronous/비동기식%20처리의%20장단점.md)
+- 📂 **Socket**
+  - 🔗 [소켓](https://github.com/ani2689/TIL/blob/main/네트워크/Sorket/소켓.md)
+- 📂 **Blocking & Non-Blocking**
+  - 🔗 [블로킹](https://github.com/ani2689/TIL/blob/main/네트워크/Blocking%20&%20Non-Blocking/블로킹.md)
+  - 🔗 [논블로킹](https://github.com/ani2689/TIL/blob/main/네트워크/Blocking%20&%20Non-Blocking/논블로킹.md)
 
 <br>
 

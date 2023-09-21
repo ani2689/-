@@ -93,6 +93,10 @@
     - 📂 **Spring Security**
       - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/사용자%20정의%20보안%20기능%20구현.md)
       - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/종속성%20추가%20시.md)
+      - 📂 **Token Based Authentication**
+        - [토큰 기반 인증](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/Token%20Based%20Authentication/토큰%20기반%20인증.md)
+        - [토큰 기반 인증의 특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/Token%20Based%20Authentication/토큰%20기반%20인증의%20특징.md)
+        - [토큰 전달 및 인증 과정](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/spring%20security/Token%20Based%20Authentication/토큰%20전달%20및%20인증%20과정.md)
     - 📂 **Transaction**
       - 🔗 [스프링에서의 트랜잭션](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/스프링에서의%20트랜잭션.md)
       - 🔗 [트랜잭션과 AOP](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Transaction/트랜잭션과%20AOP.md)

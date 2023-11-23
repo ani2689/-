@@ -96,11 +96,14 @@
     - 🔗 [MVC](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/MVC.md)
     - 📂 **Spring Boot**
       - 🔗 [특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/특징.md)
-      - 🔗 [특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/spring과의%20차이.md)
+      - 🔗 [스프링과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/spring과의%20차이.md)
       - 📂 **Containerless**
         - 🔗 [컨테이너리스](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/컨테이너리스.md)
         - 🔗 [웹 프로그램의 동작](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/웹%20프로그램의%20동작.md)
         - 🔗 [스프링부트의 컨테이너리스](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/스프링부트의%20컨테이너리스.md)
+      - 📂 **Opinionated**
+        - 🔗 [스프링과 스프링부트의 설계 철학](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Opinionated/스프링과%20스프링부트의%20설계%20철학.md)
+        - 🔗 [스프링부트가 결정하는 것](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Opinionated/스프링부트가%20결정하는%20것.md)
     - 📂 **Spring Security**
       - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Security/사용자%20정의%20보안%20기능%20구현.md)
       - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Security/종속성%20추가%20시.md)

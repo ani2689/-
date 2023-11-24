@@ -96,7 +96,7 @@
     - 🔗 [MVC](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/MVC.md)
     - 📂 **Spring Boot**
       - 🔗 [특징](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/특징.md)
-      - 🔗 [스프링과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/spring과의%20차이.md)
+      - 🔗 [스프링과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Spring과의%20차이.md)
       - 📂 **Containerless**
         - 🔗 [컨테이너리스](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/컨테이너리스.md)
         - 🔗 [웹 프로그램의 동작](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/웹%20프로그램의%20동작.md)

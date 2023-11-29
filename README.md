@@ -107,6 +107,11 @@
       - 📂 **Opinionated**
         - 🔗 [스프링과 스프링부트의 설계 철학](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Opinionated/스프링과%20스프링부트의%20설계%20철학.md)
         - 🔗 [스프링부트가 결정하는 것](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Opinionated/스프링부트가%20결정하는%20것.md)
+      - 📂 **Annotation**
+        - 📂 **Meta Annotation**
+          - 🔗 [메타 어노테이션](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Annotation/Meta%20Annotation/메타%20어노테이션.md)
+        - 📂 **Component Annotation**
+          - 🔗 [합성 어노테이션](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Annotation/Component%20Annotation/합성%20어노테이션.md)
     - 📂 **Spring Security**
       - 🔗 [사용자 정의 보안 기능 구현](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Security/사용자%20정의%20보안%20기능%20구현.md)
       - 🔗 [종속성 추가 시](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Security/종속성%20추가%20시.md)

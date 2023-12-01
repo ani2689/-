@@ -100,6 +100,13 @@
       - 🔗 [스프링과의 차이](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Spring과의%20차이.md)
       - 🔗 [Front Controller](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Front%20Controller.md)
       - 🔗 [Proxy](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Proxy.md)
+      - 📂 **Bean Object**
+        - 🔗 [빈 오브젝트의 역할](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Bean%20Object/빈%20오브젝트의%20역할.md)
+        - 📂 **Application Bean**
+          - 🔗 [애플리케이션 로직 빈](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Bean%20Object/Application%20Bean/애플리케이션%20로직%20빈.md)
+          - 🔗 [애플리케이션 인프라스트럭처 빈](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Bean%20Object/Application%20Bean/애플리케이션%20인프라스트럭처%20빈.md)
+        - 📂 **Container Infrastructure Bean**
+          - 🔗 [컨테이너 인프라스트럭처 빈](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Bean%20Object/Container%20Infrastructure%20Bean/컨테이너%20인프라스트럭처%20빈.md)
       - 📂 **Containerless**
         - 🔗 [컨테이너리스](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/컨테이너리스.md)
         - 🔗 [웹 프로그램의 동작](https://github.com/ani2689/TIL/blob/main/개발/Framework/Spring/Spring%20Boot/Containerless/웹%20프로그램의%20동작.md)

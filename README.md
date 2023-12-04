@@ -50,6 +50,8 @@
     - 📂 **Lib**
       - 🔗 [QueryDsl](https://github.com/ani2689/TIL/blob/main/개발/Language/SQL/Lib/QueryDsl.md)
       - 🔗 [QueryDsl 사전설정](https://github.com/ani2689/TIL/blob/main/개발/Language/SQL/Lib/QueryDsl%20사전설정.md)
+  - 📂 **C/C++**
+    - 🔗 [C/C++의 문제](https://github.com/ani2689/TIL/blob/main/개발/Language/C,C++/C,C++의%20문제.md)
   - 📂 **Java**
     - 🔗 [직렬화](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/직렬화.md)
     - 🔗 [접근 제어자](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/접근%20제어자.md)
@@ -58,6 +60,8 @@
     - 🔗 [Overloading & Overriding](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Overloading%20&%20Overriding)
     - 📂 **Class**
       - 🔗 [클래스와 객체](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Class/클래스와%20객체.md)
+    - 📂 **Jvm**
+      - 🔗 [JVM](https://github.com/ani2689/TIL/blob/main/개발/Language/Java/Jvm/JVM.md)
   - 📂 **Kotlin**
     - 🔗 [조건문](https://github.com/ani2689/TIL/blob/main/개발/Language/Kotlin/조건문.md)
     - 🔗 [반복문](https://github.com/ani2689/TIL/blob/main/개발/Language/Kotlin/반복문.md)

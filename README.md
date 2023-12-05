@@ -46,6 +46,14 @@
   - 📂 **OOP**
     - 🔗 [객체 지향 5원칙](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/객체%20지향%205원칙.md)
     - 🔗 [객체 지향 프로그래밍](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/객체%20지향%20프로그래밍.md)
+    - 📂 **Design Pattern**
+      - 🔗 [디자인 패턴](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/Design%20Pattern/디자인%20패턴.md)
+      - 📂 **Behavioral Pattern**
+        - 🔗 [행위패턴](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/Design%20Pattern/Behavioral%20Pattern/행위패턴.md)
+      - 📂 **Creational Pattern**
+        - 🔗 [생성패턴](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/Design%20Pattern/Creational%20Pattern/생성패턴.md)
+      - 📂 **Structural Pattern**
+        - 🔗 [구조패턴](https://github.com/ani2689/TIL/blob/main/개발/Language/OOP/Design%20Pattern/Structural%20Pattern/구조패턴.md)
   - 📂 **SQL**
     - 📂 **Lib**
       - 🔗 [QueryDsl](https://github.com/ani2689/TIL/blob/main/개발/Language/SQL/Lib/QueryDsl.md)
